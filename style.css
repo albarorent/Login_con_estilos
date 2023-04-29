@@ -209,6 +209,7 @@ body{
 
     .form-box .input-box{
         width: 270px;
+        margin-left: 10px;
     }
     .social-icons{
         display: flex;
@@ -244,6 +245,7 @@ body{
     }
     .form-box .input-box{
         width: 240px;
+        margin-left: 10px;
     }
 
     .form-box .remember-forgot{
